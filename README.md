@@ -24,7 +24,9 @@ Para ejecutar la aplicación son necesarios tener instalados los siguientes requ
 
 Este sistema fue pensado para detectar signos de somnolencia en conductores de vehículos con el fin de alertar mediante una placa Arduino y un buzzer. Esto funciona a través del conteo de parpadeos y la duración de cada uno, para así poder determinar cuando el conductor presenta alguna señal de somnolencia o sueño.
 
-# Pasos para ejecutar
+---
+
+## Pasos para ejecutar
 
 1. **Clonar el repositorio** del proyecto en tu máquina local:
    ```bash
