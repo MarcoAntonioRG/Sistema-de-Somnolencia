@@ -13,10 +13,10 @@ Sistema para detectar somnolencia en el conductor de vehículo.
 
 ## **Requisitos Técnicos**
 
-Para ejecutar la aplicación son necesarios tener instalados los siguientes requisitos en tu máquina local:
+Para ejecutar la aplicación son necesarios tener los siguientes requisitos en tu máquina local:
 
-- Docker para la ejecución de la aplicación mediante contenedor.
 - Python para ejecutar localmente.
+- Cámara de PC
 
 ---
 
@@ -31,7 +31,7 @@ Este sistema fue pensado para detectar signos de somnolencia en conductores de v
 1. **Clonar el repositorio** del proyecto en tu máquina local:
    ```bash
    git clone https://github.com/MarcoAntonioRG/Sistema-de-Somnolencia.git
-   cd App-Rent-a-Car 
+   cd Sistema-de-Somnolencia
 
 2. Instalar las librerías en un entorno local o virtual desde `requirements.txt` con:
    ```bash
@@ -42,9 +42,5 @@ Este sistema fue pensado para detectar signos de somnolencia en conductores de v
    ```bash         
    python Detector_Micro_Sueño.py
    ```
-                
-   o con Docker mediante:
-   ```bash
-   docker compose up
 
 5. Para cerrar la ventana de la aplicación basta con presionar el botón de cerrar o presionar la tecla `Esc`.
