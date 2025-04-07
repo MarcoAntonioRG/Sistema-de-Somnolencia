@@ -2,14 +2,10 @@
 
 Sistema para detectar somnolencia en el conductor de vehículo.
 
----
-
 ## Tecnologías Usadas
 - Python
 - OpenCV
 - Arduino
-
----
 
 ## **Requisitos Técnicos**
 
@@ -18,13 +14,9 @@ Para ejecutar la aplicación son necesarios tener los siguientes requisitos en t
 - Python para ejecutar localmente.
 - Cámara de PC
 
----
-
 ## Descripción
 
 Este sistema fue pensado para detectar signos de somnolencia en conductores de vehículos con el fin de alertar mediante una placa Arduino y un buzzer. Esto funciona a través del conteo de parpadeos y la duración de cada uno, para así poder determinar cuando el conductor presenta alguna señal de somnolencia o sueño.
-
----
 
 ## Pasos para ejecutar
 
